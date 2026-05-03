@@ -1,0 +1,10 @@
+=== Cyber Deception ML Analysis Report ===
+
+Login Attempts per IP:
+            ip  attempts  anomaly
+0  192.168.1.1         3       -1
+1  192.168.1.2         1        1
+2     10.0.0.1         1        1
+
+Alerts:
+⚠️ Suspicious IP Detected: 192.168.1.1
